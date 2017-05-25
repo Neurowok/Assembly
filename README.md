@@ -1,2 +1,2 @@
-# Assembly
-Un ensemble de codes de base en langage assemblage.
+# Assembly language MIPS
+Un ensemble de codes de base en langage assemblage pour processeur MIPS.
